@@ -1,0 +1,12 @@
+{
+  "name": "Simple Bounce",
+  "short_name": "Simple Bounce",
+  "id": "com.banlogics.games.classic.simplebounce",
+  "description": "Simple Bounce by Banlogics",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
